@@ -1,0 +1,11 @@
+
+Name=input("Enter your Name : ")
+Age=input("Enter your Age : ")
+CGPA=input("Enter your CGPA : ")
+Location=input("Enter your Location : ")
+print("student information")
+print("---------------------------")
+print("Name" +Name)
+print("Age" +Age)
+print("CGPA" +CGPA)
+print("Location" +Location)
