@@ -20,13 +20,33 @@ from sys import float_info
 
 # Math related libray funtion
 
-from math import *
+# from math import *
+#
+# print(max(20,10))
+# print(min(20,10))
+# print(pow(2,3))
+# print(abs(-5))
+# print(sqrt(16))
+# print(round(3.8))
+# print(floor(2.8))
+# print(ceil(2.8))
 
-print(max(20,10))
-print(min(20,10))
-print(pow(2,3))
-print(abs(-5))
-print(sqrt(16))
-print(round(3.8))
-print(floor(2.8))
-print(ceil(2.8))
+# type Funtion
+
+num = "Tanim"
+print(type(num))
+
+num = 10
+print(type(num))
+
+num = 10
+print(type(True))
+
+num1 = 20
+num2 = 10
+num3 = 10
+# sum = num1 + num2
+print(f"{num1} + {num2} - {num3} = {num1+num2-num3}")
+
+print(" Tanim Hasan",end=",")
+print("01636068802")
