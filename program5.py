@@ -50,3 +50,25 @@ print(f"{num1} + {num2} - {num3} = {num1+num2-num3}")
 
 print(" Tanim Hasan",end=",")
 print("01636068802")
+
+#boolean Data type & relational operation
+
+print(30<20)
+print(30>20)
+print(30>=20)
+print(30<=20)
+print(30==20)
+print(30!=20)
+print("Tanim"=="Hasan")
+print("Tanim"=="Tanim")
+
+#if conditon
+Mark = 10
+if Mark>=33:
+     print("Pass")
+     print("Congratulation")
+else:
+ print("Fail")
+ print("Best of luck next time")
+
+
