@@ -25,3 +25,14 @@ elif number5> number4 and number5> number6:
     print(number5)
 else:
     print(number6)
+
+marks=55
+if 80<=marks<=100:
+    print("A+")
+
+elif 70 <= marks <= 80:
+        print("A")
+elif 60<=marks<=70:
+    print("A-")
+else:
+    print("Fail")
